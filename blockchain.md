@@ -4,3 +4,5 @@
 ### security
 - https://code4rena.com/
 - https://hackenproof.com/programs
+- https://github.com/ZhangZhuoSJTU/Web3Bugs
+- https://cmichel.io/how-to-become-a-smart-contract-auditor/
