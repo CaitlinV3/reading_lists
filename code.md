@@ -20,6 +20,7 @@
 - https://guides.rubyonrails.org/getting_started.html
 - https://practicingruby.com/
 - https://ruby-doc.org/core-3.1.2/
+- https://www.scrapingbee.com/blog/ruby-faraday-proxy/
 
 ### Javascript
 - https://github.com/wesbos/JavaScript30 https://www.youtube.com/watch?v=VuN8qwZoego
