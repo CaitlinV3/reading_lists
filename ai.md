@@ -9,3 +9,4 @@
 
 ### Tools
 - https://modal.com/ (Run generative AI models)
+- https://github.com/openai/whisper
