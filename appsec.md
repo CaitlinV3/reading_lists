@@ -10,6 +10,8 @@
 - https://www.securecoding.com/blog/fixing-common-go-vulnerabilities/
 - https://www.awesomecodereviews.com/checklists/secure-code-review-checklist/#secure-code-review-checklist---extended-version
 - https://blog.securitybreached.org/2023/08/18/bug-bounty-blueprint-a-beginners-guide/
+- https://github.com/jassics/security-interview-questions
+- https://infosecwriteups.com/10-beginner-friendly-cybersecurity-projects-to-kickstart-your-journey-2acc7250a744
 
 ### Purposely vulnerable apps
 - https://github.com/OWASP/railsgoat
@@ -30,18 +32,17 @@
 - https://github.com/joernio/joern (OSS code analyzer)
 - https://github.com/returntocorp/semgrep
 
-### Bug Bounty writeups to remember
-- https://infosecwriteups.com/reverse-search-idor-approach-to-exposure-of-all-organizational-sensitive-information-954220b96a59
-
-
 ### Tools
 - https://github.com/swisskyrepo/PayloadsAllTheThings
 - https://github.com/danielmiessler/SecLists
 - https://github.com/bl4de/security-tools
 - https://tailscale.com/ https://github.com/tailscale/tailscale
 - https://github.com/iovisor/bcc
+- https://github.com/majd/ipatool
 - https://github.com/rubyfu/rubyfu
+- https://github.com/minimaxir/big-list-of-naughty-strings
 - https://security.snyk.io/
 - https://appmap.io/
 - https://github.com/nahamsec/lazyrecon
 - https://www.shodan.io
+- https://github.com/DragoQCC/HardHatC2
