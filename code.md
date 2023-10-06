@@ -43,6 +43,7 @@
 
 ### Git
 - https://education.github.com/git-cheat-sheet-education.pdf
+- https://ohmygit.org/
 
 ### Data science
 - https://sonsuzdesign.blog/category/programming/data-science/
@@ -57,6 +58,7 @@
 - https://smee.io/tGSLLA3PEaFqR2BJ (webhooks)
 - https://mermaid.live/
 - https://leetcode.com/
+- https://www.mockaroo.com/ (for mock data testing)
 
 ### Cool projects to remember
 - https://github.com/answerdev/answer
