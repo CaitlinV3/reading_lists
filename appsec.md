@@ -47,3 +47,4 @@
 - https://www.shodan.io
 - https://github.com/DragoQCC/HardHatC2
 - https://trivy.dev/
+- https://jwt.io -> to check if valid token
