@@ -46,3 +46,4 @@
 - https://github.com/nahamsec/lazyrecon
 - https://www.shodan.io
 - https://github.com/DragoQCC/HardHatC2
+- https://trivy.dev/
